@@ -1,6 +1,6 @@
 
-let num1 = prompt("Inserisci il primo numero:");
-let num2 = prompt("Inserisci il secondo numero:");
+let num1 = Number(prompt("Inserisci il primo numero:"));
+let num2 = Number(prompt("Inserisci il secondo numero:"));
 
 
 let somma = num1 + num2;
